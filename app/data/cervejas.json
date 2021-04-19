@@ -1,0 +1,111 @@
+{
+   "Cervejas": [
+      {
+         "Nome": "Cerveja A",
+         "SIGLA": "A",
+         "Tempo_fermentacao": 7,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja  B",
+         "SIGLA": "B",
+         "Tempo_fermentacao": 7,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja C",
+         "SIGLA": "C",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja D",
+         "SIGLA": "D",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja E",
+         "SIGLA": "E",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja F",
+         "SIGLA": "F",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja G",
+         "SIGLA": "G",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja H",
+         "SIGLA": "H",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja I",
+         "SIGLA": "I",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja J",
+         "SIGLA": "J",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja K",
+         "SIGLA": "K",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja L",
+         "SIGLA": "L",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja M",
+         "SIGLA": "M",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja N",
+         "SIGLA": "N",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      },
+      {
+         "Nome": "Cerveja O",
+         "SIGLA": "O",
+         "Tempo_fermentacao": 3,
+         "tanques": 2
+      }
+   ],
+   "producao": {
+      "sala_1": [],
+      "sala_2": [
+         "SPM",
+         "BOH",
+         "BRHZ",
+         "STE",
+         "PSTE",
+         "PBOH",
+         "PSKOL"
+      ],
+      "Hecto550": [
+         "BOH",
+         "SPM",
+         "STE"
+      ]
+   }
+}

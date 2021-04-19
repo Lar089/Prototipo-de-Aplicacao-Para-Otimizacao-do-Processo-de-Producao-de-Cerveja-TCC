@@ -1,0 +1,427 @@
+{
+	"cervejaria": "Fábrica Lages",
+	"estrutura": {
+		"producao": {
+			"area_quente": {
+				"salas": [
+					{
+						"nome": "sala 1"
+					},
+					{
+						"nome": "sala 2"
+					}
+				]
+			},
+			"area_fria": {
+				"filas": [
+					{
+						"nome": "anel_17",
+						"tipo": [
+							"fermentador"
+						],
+						"tanques": [
+							{
+								"nome": "od_48",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_55",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_47",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_34",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_33",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_32",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_31",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_04",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_03",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_02",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_01",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_17",
+								"tipo": [
+									"fermentador"
+								]
+							}
+						]
+					},
+					{
+						"nome": "anel_18",
+						"tipo": [
+							"fermentador"
+						],
+						"tanques": [
+							{
+								"nome": "od_50",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_49",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_38",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_37",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_36",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_35",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_08",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_07",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_06",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_05",
+								"tipo": [
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_18",
+								"tipo": [
+									"fermentador"
+								]
+							}
+						]
+					},
+					{
+						"nome": "anel_19",
+						"tipo": [
+							"maturador",
+							"fermentador"
+						],
+						"tanques": [
+							{
+								"nome": "od_52",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_51",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_42",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_41",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_40",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_39",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_12",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_11",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_10",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_09",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							},
+							{
+								"nome": "od_19",
+								"tipo": [
+									"maturador",
+									"fermentador"
+								]
+							}
+						]
+					},
+					{
+						"nome": "anel_20",
+						"tipo": [
+							"maturador"
+						],
+						"tanques": [
+							{
+								"nome": "od_54",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_53",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_46",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_45",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_44",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_43",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_16",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_15",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_14",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_13",
+								"tipo": [
+									"maturador"
+								]
+							},
+							{
+								"nome": "od_20",
+								"tipo": [
+									"maturador"
+								]
+							}
+						]
+					}
+				],
+				"Linhas": [
+					{
+						"tipo": "Dosagem",
+						"quantidade": [
+							{
+								"nome": "Linha_de_Dosagem_1"
+							},
+							{
+								"nome": "Linha_de_Dosagem_2"
+							}
+						]
+					},
+					{
+						"tipo": "Recolha",
+						"quantidade": [
+							{
+								"nome": "Linha_de_Recolha_1"
+							},
+							{
+								"nome": "Linha_de_Recolha_2"
+							}
+						]
+					},
+					{
+						"tipo": "Maturada",
+						"quantidade": [
+							{
+								"nome": "Linha_de_Maturada_1"
+							},
+							{
+								"nome": "Linha_de_Maturada_2"
+							}
+						]
+					}
+				],
+				"centrifugas": [
+					{
+						"nome": "Centrifuga_1"
+					},
+					{
+						"nome": "Centrifuga_2"
+					}
+				],
+				"Desalcoolizador": [
+					{
+						"nome": "Desalcoolizador"
+					}
+				],
+				"Bombas_de_Cip": [
+					{
+						"tipo": "Cip_Frio",
+						"quantidade": [
+							{
+								"nome": "Bombas_cip_frio_1",
+								"CIP": [
+									"fermentadores",
+									"maturadores"
+								]
+							},
+							{
+								"nome": "Bombas_cip_frio_2",
+								"CIP": [
+									"fermentadores",
+									"maturadores"
+								]
+							}
+						]
+					},
+					{
+						"tipo": "Cip_Quente",
+						"quantidade": [
+							{
+								"nome": "MB5",
+								"CIP": [
+									"Dosagem",
+									"Recolha",
+									"Centrifuga_1"
+								]
+							},
+							{
+								"nome": "MB6",
+								"CIP": [
+									"Dosagem",
+									"Maturada",
+									"Centrifuga_2"
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		"packing": {},
+		"logistica": {}
+	}
+}

@@ -1,0 +1,23 @@
+Criado um environment com Python 3.6 ou 3.6.2 (usado pelo Heroku)
+Dependências requirements.txt
+    - Alteradas as versões dos pacotes numpy, pandas, PuLP para versões anteriores
+    - Alterada a versão do pyschedule para uma versão mais nova
+
+Implementação
+Criada uma função, baseada no plot, para transformar a solução em um dataframe
+Criada uma tabela no layout de resultado
+Reimplementado o callback da tabela de CRUD de cervejas
+Reimplementado o callback do botão de otimização e a comunicação com o backend. 
+O backend fica executado na forma de script independente via linha de comando. (Isto seria diferente
+se fosse implementado em ortools por exemplo onde temos um controle maior sobre as instâncias, diferente do pyschedule)
+Removidas algumas malhas e horizontes que estavam estáticos
+Adicionados prints para log no código para verificar onde se interrompia a execução
+Criado um gitignore para python
+Adicionei um script exploring_last_optimization.py para quando rodar localmente possa carregar a solução da última otimização
+e explorar como plot, lista, ou dataframe
+Criada uma pasta temp para armazenar e apoiar no processo de otimização
+
+Deploy
+Adicionada a dependência de gunicorn
+Criado um Procfile
+Adicionado um server Flaks para app em app/__init__

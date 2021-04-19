@@ -1,0 +1,70 @@
+{
+    "arriar": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "fermentar_1": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "recolha": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "fermentar_2": {
+        "duracao": "",
+        "tarefas": {}
+    },
+    "centrifugar": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "maturar": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "filtragem": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "desalcoolizar": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "decantar": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIP_POS_desalcoolizacao": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIP_dosagem": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIP_recolha": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIP_maturada": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIP_fermentador": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIP_maturador": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIPc_centrifuga": {
+        "duracao": 1,
+        "tarefas": {}
+    },
+    "CIPl_centrifuga": {
+        "duracao": 1,
+        "tarefas": {}
+    }
+}
